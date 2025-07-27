@@ -5,4 +5,4 @@ GIT COMMIT - M " -> COMMITA O QUE FOI ADICIONADO AOS FUTUROS COMMITEDS
 GIT ADD NOME_ARQUIVO  -> ADICIONA O ARQUIVO QUE SERA COMMITADO
 git vem quente amo demais
 asasasa
-git ta me deixando com mt tesao
+git ta me deixando com mt tesaooooooo
