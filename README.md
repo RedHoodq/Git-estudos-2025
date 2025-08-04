@@ -8,3 +8,11 @@ Um curso para aprender a trabalhar com Git e GitHub, além de aprender sobre Git
 
 GRÁTIS NO CANAL DO YOUTUBE
 
+
+
+GIT  ---- Quem está participando:
+
+
+
+Gabriel Ramos
+
